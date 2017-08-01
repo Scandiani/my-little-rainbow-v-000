@@ -9,7 +9,7 @@ div {
   border-right-color: transparent; /* the right side */
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
-
+/* the following well use id to select the colors from index.html */
 #red { /* this selects any elements with the red id */
   color: #f00;
 }
