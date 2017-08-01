@@ -14,7 +14,7 @@ div {
   color: #f00;
 }
 
-#orange{
+#orange{ /* selects any elements with orange id */
   color: #ffa500;
 }
 
